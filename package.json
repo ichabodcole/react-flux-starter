@@ -1,0 +1,42 @@
+{
+  "name": "react-flux-starter",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.2",
+    "flux": "^2.0.1",
+    "immutable": "^3.6.2",
+    "lodash": "^3.3.1",
+    "object-assign": "^2.0.0",
+    "react": "^0.12.2",
+    "superagent": "^0.21.0"
+  },
+  "devDependencies": {
+    "babelify": "^5.0.3",
+    "beepbeep": "^1.2.0",
+    "browser-sync": "^1.9.0",
+    "browserify": "^8.1.1",
+    "del": "^1.1.1",
+    "event-stream": "^3.2.1",
+    "gulp": "git://github.com/gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-eslint": "^0.2.2",
+    "gulp-inject": "^1.1.1",
+    "gulp-jshint": "^1.9.0",
+    "gulp-less": "^3.0.0",
+    "gulp-load-plugins": "^0.8.0",
+    "gulp-order": "^1.1.1",
+    "gulp-uglify": "^1.1.0",
+    "jest-cli": "^0.2.1",
+    "jshint-stylish": "^1.0.0",
+    "reactify": "^0.17.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.0.0",
+    "wiredep": "^2.2.2"
+  }
+}
